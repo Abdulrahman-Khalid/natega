@@ -1,0 +1,17 @@
+{
+  "name": "natega",
+  "version": "1.0.0",
+  "description": "Alarm when grades are out of Faculty Of Engineering Cairo University",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.3.1",
+    "jsdom": "^16.5.3"
+  }
+}
