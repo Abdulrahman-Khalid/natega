@@ -21,6 +21,7 @@ const check_natega = async () => {
     .length > 0;
     if (flag) {
       play_audio();
+      console.log('El Natega Zahreeet!');
     }
   })('http://www.results.eng.cu.edu.eg');
 };
